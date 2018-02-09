@@ -1,3 +1,3 @@
-# futbattle
-A web app for voting the best players on FIFA Ultimate Team  
+# evebattle
+A web app for voting the best players on Eve Online
 Build with React, Flux, Socket.io and MongoDB. Followed this amazing tutorial http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
